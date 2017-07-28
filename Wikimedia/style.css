@@ -1,0 +1,45 @@
+.main {
+    width: 70%;
+    margin: auto;
+  
+        font: 13px/1.5 sans-serif;
+}
+
+#intro {
+    font-size: 150%;
+    text-align: justify;
+    padding: .5em 1em;
+}
+
+.welcome {
+    font-weight: bold;
+    text-align: right;
+}
+
+.img-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    width: 135px;
+
+}
+
+.footer {
+margin: 10px auto;
+text-align: center;
+font-size: 13px;
+}
+
+ul {
+
+    padding: 0;
+
+}
+
+.footer li {
+    margin: 0 10px;
+    display: inline;
+}
